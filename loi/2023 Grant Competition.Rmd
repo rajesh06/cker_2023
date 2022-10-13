@@ -1,0 +1,62 @@
+---
+title: |
+  | Committee on Knowledge Extension Research (CKER)
+  | 2023 Individual Grants Competition
+  | Letter of Intent
+author:
+- Rajesh Sahasrabuddhe, Oliver Wyman Actuarial Consulting, Inc.
+- Jiale Chen, The University of Connecticut
+date: "2022-10-14"
+output:
+  pdf_document: default
+  word_document: default
+mainfont: Calibri
+fontsize: 12pt
+bibliography: references.bib
+link-citations: true
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\raggedright
+
+## Proposed Title
+
+Allocating the Value of Insurance Using the "Split-the-Pie" Approach (working title)
+
+## Description of the Research Project
+
+In [Split the Pie: A Radical New Way to Negotiate](https://insights.som.yale.edu/insights/better-way-to-divide-the-pie) [@nalebuff2022], Professor Barry Nalebuff of the Yale School of Management proposes an approach for allocating the value created by reaching an agreement.
+
+The risk sharing created by insurance products creates value through capital allocation efficiency. In our research, we will apply the principles of the split-the-pie approach to the allocation of that value. The analysis will consider the (potential) parties in the value creation: current insureds, prospective insureds, and the insurer.
+
+We do not intend to contrast the split-the-pie approach with current approaches to profit provisions. Consequently, we do not intend to discuss the merits of the split-the-pie allocation approach.
+
+The split-the-pie approach represents a value-based alternative to determining theprofit provision in insurance rates. Actuaries may use the research to determine rates and premiums.
+
+## Access to Data
+
+We do not require any data for this research. However, we will include a numerical example based on pseudo data to support the reader's understanding.
+
+## Estimate of Funding Requirements
+
+We estimate funding requirements to be \$15,000.
+
+## Other
+
+We intend to submit our paper to either North American Actuarial Journal or Variance.
+
+## Literature Review
+
+Prof. Nalebuff's published his book on March 8, 2022. Given the timeline, we did not identify or expect to identify any prior research related to this topic.
+
+## Author Information
+
+[Rajesh Sahasrabuddhe](mailto:rajesh.sahasrabuddhe\@oliverwyman.com) is a Fellow of the Casualty Actuarial Society (CAS), an Associate of the Canadian Institute of Actuaries (CIA) and a Member of the American Academy of Actuaries. He has been providing actuarial consulting services since 1995 and is an active CAS and CIA volunteer. In addition to several papers that appear in the CAS Forum, he has co-authored a paper that appears in Variance. (That paper receieved the Variance prize.)
+
+[Jiale Chen](mailto:jiale.2.chen\@uconn.edu) is a master's degree student studying at the University of Connecticut. He is also pursuing the Associate of Casualty Actuarial Society credential.
+
+## Bibliography
