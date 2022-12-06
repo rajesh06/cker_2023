@@ -24,4 +24,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \raggedright
 <!-- header-includes: \usepackage{setspace}\doublespacing -->
-Hello World
+<!-- Section 1: Introduction -->
+```{r child = here::here('paper', '01-00 introduction.Rmd')}
+```
+
+<!-- Section 2: Split the Pie -->
+```{r child = here::here('paper', '02-00 split the pie.Rmd')}
+```
+
+<!-- Section 3: Insurance Pricing -->
+```{r child = here::here('paper', '03-00 insurance pricing.Rmd')}
+```
+
+<!-- Section 4: A New Approach -->
+```{r child = here::here('paper', '04-00 a new approach.Rmd')}
+```
+
