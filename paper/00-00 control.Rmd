@@ -1,0 +1,27 @@
+---
+title: "Allocating the Value of Insurance Using the 'Split-the-Pie' Approach"
+author:
+- Rajesh Sahasrabuddhe, Oliver Wyman Actuarial Consulting, Inc.
+- Jiale Chen, The University of Connecticut
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  pdf_document: 
+    fig_caption: yes
+    number_sections: true
+abstract: "In [Split the Pie: A Radical New Way to Negotiate](https://insights.som.yale.edu/insights/better-way-to-divide-the-pie) [@nalebuff2022], Professor Barry Nalebuff of the Yale School of Management proposes an approach for allocating the value created by reaching an agreement. 
+
+The risk sharing created by insurance products creates value through capital allocation efficiency. In our research, we will apply the principles of the split-the-pie approach to the allocation of that value. The analysis will consider the (potential) parties in the value creation: current insureds, prospective insureds, and the insurer. 
+
+We do not intend to contrast the split-the-pie approach with current approaches to profit provisions. Consequently, we do not intend to discuss the merits of the split-the-pie allocation approach. The split-the-pie approach represents a value-based alternative to determining the profit provision in insurance rates. Actuaries may use the research to determine rates and premiums." 
+
+---
+<!-- Set knitr options -->
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\raggedright
+<!-- header-includes: \usepackage{setspace}\doublespacing -->
+Hello World
