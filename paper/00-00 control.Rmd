@@ -17,6 +17,9 @@ We do not intend to contrast the split-the-pie approach with current approaches 
 ---
 <!-- Set knitr options -->
 
+<!-- R Markdown: The Definitive Guide -->
+<!-- https://bookdown.org/yihui/rmarkdown/ -->
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
