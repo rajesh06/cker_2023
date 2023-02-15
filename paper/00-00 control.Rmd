@@ -33,6 +33,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- Section 2: Split the Pie -->
 ```{r child = here::here('paper', '02-00 split the pie.Rmd')}
+The "Split the pie" method is a negotiation strategy created by Barry Nalebuff, the Milton Steinbach Professor of Management at the Yale School of Management. The "pie" in this method represents additional resources above what the parties already possess. For instance, money, stock, time, or other assets. Two parties must agree to negotiate the total size of the "pie", or total amount of sources that are available and work together to divide it in a fair and satisfying manner that is fair and satisfactory.
+
+The next step, after determining the size of the "pie," is to identify the factor that determines how to divide the "pie." These factors may include the amount of effort each party will contribute to the project, the level of risk they are willing to accept or any other relevant factors that may impact the distribution of resources.
+
+After identifying factors in the previous step, the parties must evaluate these factors and assign them a numeric value based on their relative importance. If a party believes liquidity to be the most crucial factor, it will assign the factory with the highest numerical value.
+Once these values have been assigned, the mathematical formula is used to determine how the “pie” will be split. Despite the fact that the formula used in the “split the pie” method varies depending on the negotiation and factors involve, there are few common methods: 1. Proportional rule. This rule involves dividing the resources based on the proportion of each party's total value to the sum of both parties' values; 2. The Nash bargaining solution The Nash bargaining solution takes into account each party's preferences for each factor and calculates a division of resources that is as close as possible to both parties' ideal outcomes.
+
+The ”split the pie” method is frequently used in negotiation where two parties want to obtain as much as they can from the divided limit resources. By working together to identify the factors which are most important to each parties, assigning numeric value to each factors, and using mathematical formula to determine how they split the “pie”, the parties can arrive at a fair and mutually acceptable distribution.
 ```
 
 <!-- Section 3: Insurance Pricing -->
